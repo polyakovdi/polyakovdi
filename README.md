@@ -12,6 +12,6 @@
 
 - :seedling: Завершил курс по JavaScript программированию в "Нетологии"!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-polakovdmitrii-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dmitry_polyakov87) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:goodboy393393@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-polyakovdmitrii-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dmitry_polyakov87) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:goodboy393393@gmail.com)
 
 ---
